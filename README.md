@@ -1,4 +1,5 @@
-![MasterHead](https://www.google.com/search?q=hello%20world&udm=2&rlz=1C1GCEA_enGH1039GH1039&hl=en&sa=X&ved=0CBsQtI8BKABqFwoTCODnmsbK7okDFQAAAAAdAAAAABAP&biw=1536&bih=776&dpr=1.25#vhid=RDq1L3Up_zx6AM&vssid=mosaic)
+![MasterHead](https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png)
+
 <h1 align="center">Hi 👋, I'm Emmanuel Asanga <Code-Mole></h1>
 <h3 align="center">I am a full-stack software developer and writer. I love programming, reading, writing and speaking. As a software developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h3>
 <img align="right" width="400" src="https://komarev.com/ghpvc/?username=code-mole&label=Profile%20views&color=0e75b6&style=flat" alt="code-mole" />
